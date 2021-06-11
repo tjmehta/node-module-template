@@ -14,9 +14,9 @@ npm i --save node-module-template
 
 ```js
 // esm
-import nmt from 'node-module-template`
+import nmt from 'node-module-template'
 // commonjs
-const nmt = require('node-module-template')
+const nmt = require('node-module-template').default
 ```
 
 # License
